@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 sai -dev2
-=======
+
 sai vardhan m
 goud
 
->>>>>>> origin/master
